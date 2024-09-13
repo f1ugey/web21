@@ -1,0 +1,101 @@
+.up-header{
+  background: #aaaa;
+  display: block;
+  text-align: center;
+    padding: 10px 0;
+    text-align: center;
+  font-size: 45px; 
+  margin-top: 35px;
+  height: 200px;
+}
+body 
+{
+  margin: 0; 
+    padding: 0; 
+    background-color: #f0f0f0; 
+    font-family: Comic Sans MC, cursive;
+}
+h1
+{
+  text-align: left;
+  margin-top: 0px;
+  margin-left: 30px;
+  text-decoration: underline;
+}
+#project-p
+{
+  text-align: left;
+  font-size: 18px;
+}
+ul
+{
+  list-style: none;
+  text-underline: none;
+}
+.project-list a
+{
+  text-decoration: none;
+}
+img
+{
+  width: 70%;
+  height: 70%;
+}
+.project-item span
+{
+  font-size: 25px;
+}
+.element
+{
+  display: flex;
+    align-items: center;
+}
+#left
+{
+    margin-left: 20px;
+    margin-right: auto;
+}
+#right {
+    margin-left: auto; 
+    margin-right: 20px; 
+}
+nav
+{
+  text-decoration: none;
+    padding: 10px;
+    text-align:center;
+  background-color :  rgb(220, 220, 220);
+    color :rgb(20,50,20);
+    border-radius: 10px;
+    font-size:24px;
+    width:220px;
+}
+.project-list img {
+    max-width: 100%;
+    height: auto;
+}
+.navbar {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    background-color: #333;
+    padding: 10px 0;
+    text-align: center;
+}
+
+.navbar a {
+    color: white;
+    text-decoration: none;
+    padding: 10px 20px;
+    margin: 0 5px;
+}
+
+.navbar a:hover {
+    background-color: #555;
+}
+#Anton
+{
+
+  border-radius: 20px;
+}
